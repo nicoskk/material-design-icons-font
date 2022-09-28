@@ -1,7 +1,7 @@
 {
-  "name": "planettraining:material-design-icons",
+  "name": "nicoskk:material-design-icons",
   "version": "0.0.1",
-  "homepage": "https://github.com/planet-training/material-design-icons",
+  "homepage": "https://github.com/nicoskk/material-design-icons",
   "authors": [
     "Dominic Garms <djgarms@gmail.com>"
   ],
@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "material-design-icons": "2.2.3"
+    "material-design-icons": "4.0.0"
   }
 }
